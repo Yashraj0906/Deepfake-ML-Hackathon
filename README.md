@@ -100,7 +100,7 @@ DetGuard/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/detguard.git
+git clone https://github.com/Yashraj0906/detguard.git
 cd detguard
 ```
 
@@ -127,18 +127,18 @@ App opens at `http://localhost:8501`
 ## 📦 Requirements
 
 ```
-streamlit>=1.32.0
-tensorflow>=2.15.0
-numpy>=1.24.0
-Pillow>=10.0.0
-matplotlib>=3.7.0
+streamlit
+tensorflow
+numpy
+Pillow
+matplotlib
 ```
 
 ---
 
 ## 📓 Notebook
 
-The full pipeline is in `DeepfakeDetection_Upgraded.ipynb`:
+The full pipeline is in `DeepfakeDetection.ipynb`:
 
 | Cell | Description |
 |---|---|
