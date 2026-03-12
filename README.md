@@ -91,7 +91,7 @@ DetGuard/
 ├── requirements.txt            # Dependencies
 ├── best_effnet_model.keras     # Trained EfficientNetV2B2
 ├── best_resnet_model.keras     # Trained ResNet101V2
-└── DeepfakeDetection_Upgraded.ipynb   # Full training notebook
+└── DeepfakeDetection.ipynb   # Full training notebook
 ```
 
 ---
